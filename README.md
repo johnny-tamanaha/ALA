@@ -7,7 +7,6 @@ Code supplement to "Applied Linear Algebra" by Peter J. Olver.
 Methods:
 
     1. singular -> check if a matrix is singular
-    
     2. plu -> permuted LU factorization
     
     3. inv -> inverse of a square matrix
